@@ -14,5 +14,16 @@
   },
   "devDependencies": {
     "jest": "^28.1.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegorodd/jest-another-RPG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diegorodd/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/diegorodd/jest-another-RPG#readme"
 }
